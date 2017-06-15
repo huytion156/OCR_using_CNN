@@ -1,0 +1,2 @@
+# OCR_using_CNN
+In the first decade of 21st century, convolutional neural network is the trend of classification and recognition prob- lem. In this paper, we use a CNN model to recognize printed English characters. This problem can be applied to convert books to editable formats, or any other scanned documents. The program is capable of handling non-ideal images such as noisy, rotated, non-center gravity ones. Recognition ac- curacy is 100% with ideal images, but ranges between 80 100% with non-ideal images.
